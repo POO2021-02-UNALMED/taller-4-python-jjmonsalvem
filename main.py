@@ -29,5 +29,5 @@ if __name__ == "__main__":
 
     Grupo.asignarNombre("Grado 1")
     print(Grupo.grado)
-    Grupo.asignarNombre()
+    Grupo.asignarNombre("Grado 6")
     print(Grupo.grado)
